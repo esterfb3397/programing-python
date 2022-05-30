@@ -1,6 +1,6 @@
 # programing-python
 Esta es la tarea del módulo de Python del Master en Big Data y Busines Analytics.
-#¿Qué es Python?
+# ¿Qué es Python?
 Python es un lenguaje de programación interpretado cuya principal filosofía es que sea legible por cualquier persona con conocimientos básicos de programación. Además, posee una serie de características que lo hacen muy particular y que, sin duda, le aportan muchas ventajas y están en la raíz de su uso tan extendido:
 
 Es totalmente gratuito. Se trata de un lenguaje open source o de código abierto, por lo que no hay que pagar ninguna licencia para utilizarlo.
